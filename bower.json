@@ -1,6 +1,6 @@
 {
   "name": "moment-element",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Element wrapper for the moment.js library",
   "private": true,
   "authors": [
@@ -28,5 +28,8 @@
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
     "web-component-tester": "Polymer/web-component-tester#^6.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0"
   }
 }
